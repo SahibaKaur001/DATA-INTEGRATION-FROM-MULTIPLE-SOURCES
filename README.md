@@ -12,7 +12,7 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-## description of project 
+## DESCRIPTION OF THE PROJECT 
 
 🔍 Project Overview
 This project presents an interactive Power BI dashboard analyzing two key metrics — C VALUE and N VALUE — from 1990 to 2023. It is designed to highlight long-term trends, compare annual performances, and present cumulative totals in a user-friendly visual format.
@@ -69,4 +69,4 @@ Forecast future trends
 Enable region-wise drilldowns
 Include dynamic tooltips for details
 
-##output 
+## OUTPUT  
